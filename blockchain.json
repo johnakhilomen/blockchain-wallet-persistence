@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "savedAt": "2026-07-31T01:35:56.486Z",
+  "difficulty": 2,
+  "miningReward": 100,
+  "chain": [
+    {
+      "timestamp": 1785461756480,
+      "transactions": [],
+      "previousHash": "0",
+      "nonce": 0,
+      "hash": "3371bcdc8e4e8a028950bdc74d097254fd3077812201198bb8de0315405de714"
+    },
+    {
+      "timestamp": 1785461756485,
+      "transactions": [
+        {
+          "fromAddress": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEvTr4kp/BRsoM8vTcW67N4SQs9IQRBGXh\nUFyUuGh7Hm7Ujjy/fiTCiL1s4ikbRwp+TN1ru4d0icyo+x/O6oYWTQ==\n-----END PUBLIC KEY-----",
+          "toAddress": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEtT9NKFFIaiUNXSkV2GU92btCSKJ6uryM\ncyHrvzuwWIrvpZJblJXRfD8HOORbXiJqRPqqB/jgH9nM2/4gaO6P6w==\n-----END PUBLIC KEY-----",
+          "amount": 100,
+          "timestamp": 1785461756483,
+          "signature": "304402203897d58813d4e44435aab34ea089e4ae5f7b67b3c5026d733361d87f1074d3d002204c64fe0600cc9b690f2a2bbaa9223117f23794f9242965b050996e1cb5626d9d"
+        },
+        {
+          "fromAddress": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEtT9NKFFIaiUNXSkV2GU92btCSKJ6uryM\ncyHrvzuwWIrvpZJblJXRfD8HOORbXiJqRPqqB/jgH9nM2/4gaO6P6w==\n-----END PUBLIC KEY-----",
+          "toAddress": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEvTr4kp/BRsoM8vTcW67N4SQs9IQRBGXh\nUFyUuGh7Hm7Ujjy/fiTCiL1s4ikbRwp+TN1ru4d0icyo+x/O6oYWTQ==\n-----END PUBLIC KEY-----",
+          "amount": 50,
+          "timestamp": 1785461756484,
+          "signature": "304402202eb18151cfc856c07785a4eae43ada55a793848d02ccfb69c08e36f7a1ac834902207c12ff1c9ca152d10a7d6453a088104daa3280d50f244d91b09ea644645e05e4"
+        },
+        {
+          "fromAddress": null,
+          "toAddress": "genesis-miner",
+          "amount": 100,
+          "timestamp": 1785461756485,
+          "signature": ""
+        }
+      ],
+      "previousHash": "3371bcdc8e4e8a028950bdc74d097254fd3077812201198bb8de0315405de714",
+      "nonce": 40,
+      "hash": "00775b5c8db77a2e61538fa44332ec092d4f1af155d6a07545c49ed33bae3339"
+    }
+  ],
+  "pendingTransactions": []
+}
